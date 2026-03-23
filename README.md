@@ -110,7 +110,7 @@ end
 
 - [Patchflow](https://patchflow.md/)
 - [Support & Issues](https://patchflow.md/)
-- [Docs](https://docs.patchflow.md/)
+- [Docs](https://docs.patchflow.md/PFSmashAndGrab)
 
 ## License
 
